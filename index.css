@@ -42,6 +42,7 @@ button {
 
 button:hover {
     opacity: 0.9;
+    width:20%;
 }
 
 button:active {
@@ -88,4 +89,30 @@ button:active {
     border-radius: 10px;
     margin: 10px 0;
     padding: 10px;
+}
+
+.blue-dark
+{
+	background-color: #2C3E50;
+}
+.red
+{
+	background-color: #E74C3C;
+}
+.marb-20
+{
+	margin-bottom: 20px;
+}
+.wd75
+{
+	width: 75%;
+	float: left;
+}
+.cta2 a
+{
+margin-top: 5px;
+}
+.fnt-24
+{
+	font-size: 24px;
 }
